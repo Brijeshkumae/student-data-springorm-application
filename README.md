@@ -30,7 +30,7 @@ delete data
 update data
 
 ##clone
-git clone https://github.com/Brijeshkumae/gas-booking-management-system.git
+git clone https://github.com/Brijeshkumae/student-data-springorm-application.git
 
 ##Usage
 ____________________________________________________________________________________________
