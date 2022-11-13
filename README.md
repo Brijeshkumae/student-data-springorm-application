@@ -2,7 +2,7 @@
 
 ___________________________________________________________________
 
-#Project Description
+##Project Description
 
 ___________________________________________________________________
 in this project i have created a student database  in which i have
@@ -10,7 +10,7 @@ add the student details , get single student data , get all student data
 delete the student record and update the student data.
 
 
-#Technologies Used
+##Technologies Used
 
 __________________________________________________________________
 Java - SE 18.0.2
@@ -19,7 +19,7 @@ Maven - v3.8.6
 spring-core -5.2.3.RELEASE
 spring-orm-5.2.3.RELEASE
 
-#Features
+##Features
 
 __________________________________________________________________________
 
@@ -29,10 +29,10 @@ get single student data
 delete data
 update data
 
-#clone
+##clone
 git clone https://github.com/Brijeshkumae/gas-booking-management-system.git
 
-#Usage
+##Usage
 ____________________________________________________________________________________________
 -Open Eclipse Workspace.
 
